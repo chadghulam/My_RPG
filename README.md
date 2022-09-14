@@ -9,3 +9,13 @@ Le joueur doit avoir des caractéristiques que vous pouvez trouver dans le menu 
 Avoir une interface utilisateur agréable. Créer un univers cohérent (actifs visuels, actifs sonores, scénario, . . .). Créer un jeu amusant où le joueur a au moins un objectif. Créer un jeu avec un début et une fin FONCTIONS AUTORISÉES Bibliothèque CSFML Toutes les fonctions
 
 Librairie de mathématiques Toute les fonctions Toute la libraire du C malloc free memset (s)rand getline (f)open (f)read (f)close (f)write opendir readdir closedir
+
+Les touches du jeu :
+
+- Pour avancer nous utilisons les flèches directionnelles :   ↑  →  ↓  ←
+- Pour voir l'inventaire appuyer sur la touche : i
+- Pour mettre des coups d'épée appuyer sur la touche : a
+- Pour mettre le bouclier appuyer sur la touche : z
+- Pour interagir appuyer sur la touche : t
+- Pour voir les statistiques appuyer sur la touche : j
+- Pour récupérer un objet vous avez juste à passer dessus
